@@ -1,5 +1,7 @@
 # MSX-CodeGolf-Minesweeper
 
+To see how it works you can [run it on WebMSX](https://webmsx.org/?basic_run=tetris.bas&disk=https://github.com/Jacco/MSX-Minesweeper-Codegolf/blob/master/Minesweeper.dsk?raw=true)
+
 MCCM 72 TODO
 
 1 RND(-TlME) :B~B+5:SCREEN1:PRINT"L:
